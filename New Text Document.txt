@@ -1,0 +1,13 @@
+https://github.com/ramesh-vignesh/portfolio.git
+
+git branch ramesh
+
+git init
+
+git add .
+
+git commit -m "comment"
+
+git remote add ramesh https://github.com/ramesh-vignesh/portfolio.git
+
+git push -u ramesh main 
